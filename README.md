@@ -160,6 +160,6 @@ git push -u origin <your_branch_name>
 
 ## Contributors
 
-<a href="https://github.com/GDSC-NITH/CookBook-2-Hacktoberfest/contributors">
-  <img src="https://contrib.rocks/image?repo=GDSC-NITH/CookBook-2-Hacktoberfest">
+<a href="https://github.com/GDSC-NITH/Cookbook-2-Hacktoberfest/contributors">
+  <img src="https://contrib.rocks/image?repo=GDSC-NITH/Cookbook-2-Hacktoberfest">
 </a>
