@@ -14,7 +14,7 @@ If we write a function component, and then we want to add some state to it, prev
 
 ## **Rules of Hooks**
 
-Hooks are similar to JavaScript functions, but we need to follow these two rules when using them. Hooks rule ensures that all the stateful logic in a component is visible in its source code.These rules are:
+Hooks are similar to JavaScript functions, but we need to follow these two rules when using them. Hooks rule ensures that all the logic in a component is visible in its source code.These rules are:
 
 ### **1. Only call Hooks at the top level**
 
