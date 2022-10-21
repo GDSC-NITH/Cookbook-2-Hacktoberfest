@@ -24,7 +24,7 @@ A priority Queue is an extension of the queue with the following properties:
 
 In a priority queue, generally, the value of an element is considered for assigning the priority.
 
-For example, the element with the highest value is assigned the highest priority and the element with the lowest value is assigned the lowest priority. The reverse case can also be used i.e., the element with the lowest value can be assigned the highest priority. Also, the priority can be assigned according to our need.
+For example, the element with the highest value is assigned the highest priority and the element with the lowest value is assigned the lowest priority. The reverse case can also be used i.e. , the element with the lowest value can be assigned the highest priority. Also, the priority can be assigned according to our need.
 
 ## **Operations of a Priority Queue:**
 
