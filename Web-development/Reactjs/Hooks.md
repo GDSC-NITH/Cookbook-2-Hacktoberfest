@@ -6,7 +6,7 @@
 
 Hooks are the new feature introduced in the React 16.8 version. It allows us to use state and other React features without writing a class. Hooks are the functions which "hook into" React state and lifecycle features from function components. It does not work inside classes.
 
-Hooks are backward-compatible, which means it does not contain any breaking changes. Also, it does not replace our knowledge of React concepts.
+Hooks are backward-compatible, which means they does not contain any breaking changes. Also, it does not replace our knowledge of React concepts.
 
 ## **Using of Hooks**
 
