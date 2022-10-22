@@ -40,5 +40,18 @@ JavaScript can be added to your HTML file in two ways:
 ```
 * External JavaScript File: We can create a file with .js extension and paste the JavaScript code inside it. After creating the file, add this file in <script src=”file_name.js”> tag inside <head> tag of the HTML file.
   
-## JavaScript Engine
+## JavaScript Engines
   A JavaScript engine is a computer program that executes JavaScript code and converts it into computer understandable language.
+  Major JavaScript engines include:
+* V8: It is a JavaScript engine developed by the Chrome project for the Google Chrome and Chromium web browser.
+* Chakra: Chakra is a JScript engine developed by Microsoft. It is proprietary software. It is used in the Internet Explorer web browser.
+* Spider Monkey: SpiderMonkey is the first JavaScript engine, written by Brendan Eich at Netscape Communications, later released as open-source and currently maintained by the Mozilla Foundation.
+* Webkit: WebKit is developed by Apple and  used in its Safari web browser, as well as all iOS web browsers.
+  
+## Some important topics of JavaScript
+* includes(): includes() method is used to find whether one string may be found within another string or not. It returns a boolean value of true or false.
+* parseInt(): It is used to accept the string and radix/base as parameters then converts it into an integer. The second parameter is optional and is used to specify which numerical system to be used as the first parameter. 
+* forEach(): It is a method that executes a provided callback function once for each array element in an ascending order. There is no way to stop or break a forEach() loop other than by throwing an exception.
+* Array.concat(): The concat() method is used to merge two or more arrays. This method returns a new array. It has no impact on the existing array as it returns a new array.
+* let, var, & const: let, const, and var those are used at the time of variable declaration. let allows us to declare block-level variables that means, if you declare variable using let then the variable can only be accessible from the block it is enclosed in. const allows us to declare variables whose values are unchangeable. var is the keyword that doesn’t have restrictions like the other two keywords have. It is the most common declarative keyword. 
+* Document Object Model (DOM): Every HTML tag is an object and nested tags are “children” of the enclosing one. The text inside the tag is an object as well. We can access all these objects using JavaScript and we can use them to modify the page. For example, document.body is the object representing the <body> tag.
