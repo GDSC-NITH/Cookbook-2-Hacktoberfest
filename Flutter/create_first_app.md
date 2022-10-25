@@ -44,11 +44,10 @@ Replace the contents of **`lib/main.dart`**. Delete all the code from **`lib/mai
 
 You should see either Android, iOS, Windows, Linux, macOS, or web output, depending on your device.
 
-Windows
-![](https://codelabs.developers.google.com/static/codelabs/first-flutter-app-pt1/img/5bfca6716bba2af1.png)
-iOS
-![](https://codelabs.developers.google.com/static/codelabs/first-flutter-app-pt1/img/2e973d40d6e82114.png)
-
+|         |         | 
+|:--------|:--------|
+| Windows | iOS |
+| ![](https://codelabs.developers.google.com/static/codelabs/first-flutter-app-pt1/img/5bfca6716bba2af1.png) | ![](https://codelabs.developers.google.com/static/codelabs/first-flutter-app-pt1/img/2e973d40d6e82114.png) |
 
 
 **Tip**: The first time that you run on a physical device, it can take a while to load. Afterward, you can use hot reload for quick updates. In supported IDEs, **Save** also performs a hot reload if the app is running. When running an app directly from the console using `flutter run`, enter `r` to perform hot reload.
