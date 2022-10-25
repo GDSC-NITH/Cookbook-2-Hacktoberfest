@@ -1,4 +1,4 @@
-[3\. Create the starter Flutter app](#2)
+[Create the starter Flutter app](#2)
 ----------------------------------------
 
 Create a simple, templated Flutter app. Create a Flutter project called **hello\_world** as follows.
