@@ -9,8 +9,8 @@ Arrays are static whereas ArrayList is dynamic. Arrays are of fixed length on th
 Arrays can store Primitive data as well as objects , but can't store generics . ArrayList  can store generics as well as objects but it cannot store store data of primitive types. 
 
 ## ArrayList in Java:
-It is a part of the Java Collection Framework and a class of java.util.package.
-(https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200624184403/ArrayList.png/)
+It is a part of the Java Collection Framework and a class of java.util.package
+(https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200624184403/ArrayList.png)
 
 Java ArrayList class can contain duplicate elements.
 Java ArrayList class maintains insertion order.
