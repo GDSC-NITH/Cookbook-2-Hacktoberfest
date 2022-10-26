@@ -29,9 +29,10 @@ The algorithm needs one whole pass without any swap to know it is sorted.
 {1 2 4 6 } --> { 1 2 4 6}
 
 ## Bubble sort code in java
+````
 import java.util.*;
-import java.util.Scanner;
-public class Bubblesort{
+  import java.util.Scanner;
+     public class Bubblesort{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the  number of elements");
@@ -56,7 +57,7 @@ public class Bubblesort{
                 System.out.println(arr[i]+" ");
             }
     }}     
-        
+  ````      
 
  //Output :
   Enter the  number of elements
