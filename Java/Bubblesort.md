@@ -9,6 +9,7 @@ Bubble sort works on the repeatedly swapping of adjacent elements until they are
 
 ## Working of Bubble sort :
 let's consider array a[] = {4,2,6,1}
+<br>
 **First Iteration** 
 it will compare the very first Two elements comparing them to check Which one is greater
 {4 2 6 1} --> {2 4 6 1} here 4 > 2 so it swaps the elements
