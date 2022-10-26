@@ -1,10 +1,10 @@
-##ArrayList :
+## ArrayList :
 
 ArrayList class is an array-based implementation of list Interface . All elements of an ArrayList are stored in a Array. 
 ArrayList class is used to implement Resizable-array. 
 ArrayList creates an array of obejcts where the array can grow dynamically  
 
-##Difference between Array and ArrayList:
+## Difference between Array and ArrayList:
 Arrays are static whereas ArrayList is dynamic. Arrays are of fixed length on the other hand ArrayList  can be Resizable.
 Arrays can store Primitive data as well as objects , but can't store generics . ArrayList  can store generics as well as objects but it cannot store store data of primitive types. 
 
@@ -25,13 +25,13 @@ For example:
 we can declare interger in this form 
 ArrayList<Integer> al = new ArrayList<Integer>();// Should be declared in this manner.
 
-##Methods in ArrayList :
+## Methods in ArrayList :
 add(Object o): This method is used to append a specific element to the end of list.
 add(int index, Object element) :  This method is used to insert specific elements in specific index position.
 clear(): This method is used to remove all the elements from any list.
 contains?(Object o): Returns true if this list contains the specified element.
 
-##For more methods refer to :
+## For more methods refer to :
 (https://www.geeksforgeeks.org/arraylist-in-java/?ref=lbp)
 
 ## Example of Simple ArrayList :
@@ -50,6 +50,6 @@ System.out.println(al);
 //output:
 [1,2,3]	
 
-##For more refer
+## For more refer
 (https://www.geeksforgeeks.org/arraylist-in-java/?ref=lbp)
 (https://www.javatpoint.com/java-arraylist)
