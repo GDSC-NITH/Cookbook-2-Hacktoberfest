@@ -1,6 +1,6 @@
 ##ArrayList :
 
-Arraylist class is an arry-based implementation of list Interface . All elements of an ArrayList are stored in a Array. 
+ArrayList class is an array-based implementation of list Interface . All elements of an ArrayList are stored in a Array. 
 ArrayList class is used to implement Resizable-array. 
 ArrayList creates an array of obejcts where the array can grow dynamically  
 
