@@ -36,15 +36,16 @@ contains?(Object o): Returns true if this list contains the specified element.
 
 ## Example of Simple ArrayList :
 
-import java.util.ArrayList; 
+import java.util.ArrayList;
 class ArrayList1{
-    public static void main(String[] args){
-        ArrayList<Integer> al = new ArrayList<Integer>();
-        al.add(1);
-        al.add(2);
-        al.add(3);
-    System.out.println(al);
-    }
+public static void main(String[] args)
+{
+ArrayList<Integer> al = new ArrayList<Integer>();
+al.add(1);
+al.add(2);
+al.add(3);
+System.out.println(al);
+}
 }
 
 //output:
