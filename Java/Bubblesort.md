@@ -9,7 +9,8 @@ Bubble sort works on the repeatedly swapping of adjacent elements until they are
 
 ## Working of Bubble sort :
 let's consider array a[] = {4,2,6,1}
-**First Iteration** : it will compare the very first Two elements comparing them to check Which one is greater
+**First Iteration** 
+it will compare the very first Two elements comparing them to check Which one is greater
 {4 2 6 1} --> {2 4 6 1} here 4 > 2 so it swaps the elements
 {2 4 6 1} --> {2 4 6 1} since 6 > 4 its already in order algorithm does not swap them.
 {2 4 6 1} --> {2 4 1 6} since 6 > 1 
@@ -22,7 +23,7 @@ Now, during second iteration it should look like this:
 {2 1 4 6} --> {2 1 4 6 } 6 > 4 already in order no need to swap.
 {2 1 4 6 } --> {1 2 4 6 } 2 > 1 swap.
 
-** Third Iteration **
+**Third Iteration**
 Now, the array is already sorted, but our algorithm does not know if it is completed.
 The algorithm needs one whole pass without any swap to know it is sorted.
 
@@ -81,6 +82,6 @@ Worst Case	O(n2)
 
 Auxiliary Space: O(1)
 
-##References :
+## References :
 (https://www.javatpoint.com/bubble-sort)
 (https://www.geeksforgeeks.org/bubble-sort)
