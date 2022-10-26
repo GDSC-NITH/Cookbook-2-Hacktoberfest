@@ -50,6 +50,6 @@ System.out.println(al);
 //output:
 [1,2,3]	
 
-## For more refer
+## References:
 (https://www.geeksforgeeks.org/arraylist-in-java/?ref=lbp)
 (https://www.javatpoint.com/java-arraylist)
