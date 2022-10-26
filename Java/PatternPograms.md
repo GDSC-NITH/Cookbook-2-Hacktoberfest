@@ -143,6 +143,7 @@ public class Main
 ***
 **
 *
+
 ```
 
 ## Half Pyramid - 2:
@@ -173,6 +174,7 @@ public class Main
 
 ```
 ## Daigonal Star  pattern:
+
 ```
 public class Main
 {
@@ -189,7 +191,7 @@ for(int i = 1;i<=4;i++){
 }
 }
 
-**Output**
+//Output
  *
   *
    *
