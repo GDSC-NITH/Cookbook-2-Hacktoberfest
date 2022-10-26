@@ -89,6 +89,7 @@ public class Main
   *   *
    * *
     *
+```
 
 ## Full Pyramid
 
