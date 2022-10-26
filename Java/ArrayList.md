@@ -12,7 +12,7 @@ Arrays can store Primitive data as well as objects , but can't store generics . 
 It is a part of the Java Collection Framework and a class of java.util.package
 <br>
 
-![ArrayList](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200624184403/ArrayList.png "ArrayList")
+![ ArrayList](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200624184403/ArrayList.png "ArrayList")
 
 Java ArrayList class can contain duplicate elements.
 Java ArrayList class maintains insertion order.
