@@ -38,13 +38,13 @@ contains?(Object o): Returns true if this list contains the specified element.
 
 import java.util.*;
 import java.util.ArrayList;
-class ArrayList{
-  public static void main(String[] args){
-    ArrayList<Integer> al = new ArrayList<Integer>();
-    al.add(1);
-    al.add(2);
-    al.add(3);
-    System.out.println(al);
+   class ArrayList{
+        public static void main(String[] args){
+           ArrayList<Integer> al = new ArrayList<Integer>();
+           al.add(1);
+           al.add(2);
+           al.add(3);
+          System.out.println(al);
 
   }
 } 
