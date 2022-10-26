@@ -1,9 +1,9 @@
-##Sorting :
+## Sorting :
 A Sorting Algorithm is used to rearrange a given array or list of elements according to a comparison operator on the elements. 
 
 The comparison operator is used to decide the new order of elements in the respective data structure.
 
-##Bubble sorting :
+## Bubble sorting :
 Bubble sort is the simplest sorting Algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This sorting Algorithm is bot not suitable for Large data sets.
 Bubble sort works on the repeatedly swapping of adjacent elements until they are not in the intended order. 
 
