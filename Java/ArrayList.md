@@ -34,7 +34,6 @@ contains?(Object o): Returns true if this list contains the specified element.
 
 ## Example of Simple ArrayList :
 
-`````
 import java.util.*;  
 public class ArrayList1{  
  public static void main(String args[]){  
@@ -48,11 +47,11 @@ public class ArrayList1{
   
  }  
 }
-````
+
 //output:
 [1,2,3]	
 
-##For more refer
+## For more refer
 (https://www.geeksforgeeks.org/arraylist-in-java/?ref=lbp)
 (https://www.javatpoint.com/java-arraylist)
 
