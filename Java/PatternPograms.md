@@ -48,7 +48,7 @@ public class Main
     }
 }}
 
-**Output**
+//Output
 *
 **
 ***
@@ -82,7 +82,7 @@ public class Main
 }
 }
 
-**Output**:
+//Output:
 
 *       *
  *     *
@@ -90,7 +90,7 @@ public class Main
    * *
     *
 
-## Full Pyramid**
+## Full Pyramid
 
 ```
 public class Main
@@ -107,7 +107,7 @@ for(int i = 1; i<=4;i++){
 }
 }
 
-**Output**
+//Output
          * 
        *  * 
      *  *  * 
@@ -116,7 +116,7 @@ for(int i = 1; i<=4;i++){
 ```
 
 
-## Solid Half Daimond**
+## Solid Half Daimond
 
 ```
 public class Main
@@ -135,7 +135,7 @@ public class Main
 }}
 
     
-**Output**
+//Output
 *
 **
 ***
@@ -146,7 +146,7 @@ public class Main
 ```
 
 ## Half Pyramid - 2:
-
+```
 public class Main
 {
 	public static void main(String[] args) {
@@ -164,12 +164,13 @@ public class Main
     }
 }}
 
-**Output**
+//Output
     *
    **
   ***
  ****
 *****
+
 ```
 ## Daigonal Star  pattern:
 ```
