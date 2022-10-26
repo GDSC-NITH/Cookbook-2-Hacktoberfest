@@ -37,7 +37,7 @@ contains?(Object o): Returns true if this list contains the specified element.
 import java.util.*;
 import java.util.ArrayList;
 class Arraylist{
- public static void main(String[] args){
+public static void main(String[] args){
 ArrayList<Integer> al = new ArrayList<Integer>();
 al.add(1);
 al.add(2);
