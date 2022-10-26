@@ -41,9 +41,10 @@ Iterating elements
 ## Adding Elements to List :
 In this we use the add() method inorder to add an element to the ArrayList 
 **Example of Adding Elements to  ArrayList** :
+```
 import java.util.*;  
-public class ArrayList1{  
- public static void main(String args[]){  
+  public class ArrayList1{  
+  public static void main(String args[]){  
   ArrayList<Integer> al = new ArrayList<Integer>();//Creating arraylist  
   al.add(1);//Adding object in arraylist    
   al.add(2);    
@@ -54,12 +55,13 @@ public class ArrayList1{
 
 **Output**:
 [1,2,3]	
-
+```
 ## Changing Elements
 If we want to change the Added elements at specific position we can use the set() method to do that.
 
 **Example of Changing Elements**
 
+```
 import java.util.ArrayList; 
 class ArrayList1{
     public static void main(String[] args){
@@ -76,7 +78,7 @@ class ArrayList1{
 **Output**
 Before Changing [Hello, Helllo, World]
 After Changing [Hello, Earth, World]
-
+```
 ## Removing elements 
 Inorder to Remove elements from an ArrayList we can use remove() method.
 remove(object): Simply removing an object from the ArrayList is done using this function. If there are numerous instances of the same item, the first instance is eliminated.
@@ -84,6 +86,7 @@ remove(int index):Since an array list is indexed, this method accepts an integer
 
 **Example of Removing Elements**
 
+```
 import java.util.ArrayList; 
 class ArrayList1{
     public static void main(String[] args){
@@ -101,11 +104,12 @@ class ArrayList1{
 **Output**
 Before Removing  [Hello, Hello, World]
 After Removing  [World]
-
+```
 ## Iterating elements:
 The ArrayList can be iterated through in a variety of ways. The most well-known techniques involve utilising both the advanced for loop and the basic for loop in conjunction with the get() method to retrieve the element at a given index.
 
 **Example of Iterating Elements**:
+```
 import java.util.ArrayList; 
 class ArrayList1{
     public static void main(String[] args){
@@ -124,7 +128,7 @@ class ArrayList1{
 
 **Output**
 Hello Hello World
-
+```
 
 
 ## For more refer
