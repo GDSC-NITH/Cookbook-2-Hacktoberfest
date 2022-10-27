@@ -76,15 +76,15 @@ public class Bubblesort{
   8
 ```
 ## Time & Space Complexity for Bubble sort:
-Time Complexity:
+**Time Complexity**:
 
 Best Case :	    O(n) <br>
 Average Case :	O(n2) <br>
 Worst Case: 	O(n2) <br>
 
-Space Complexity:<br>
+**Space Complexity**:<br>
 Auxiliary Space: O(1)
 
 ## References :
-(https://www.javatpoint.com/bubble-sort)
+(https://www.javatpoint.com/bubble-sort)<br>
 (https://www.geeksforgeeks.org/bubble-sort)
