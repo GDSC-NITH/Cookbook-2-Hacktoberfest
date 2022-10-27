@@ -31,6 +31,7 @@ The algorithm needs one whole pass without any swap to know it is sorted.
 {1 2 4 6 } --> { 1 2 4 6}
 
 ## Bubble sort code in java
+```
 import java.util.*;
 import java.util.Scanner;
 public class Bubblesort{
@@ -73,7 +74,7 @@ public class Bubblesort{
   5
   6
   8
-
+```
 ## Time & Space Complexity for Bubble sort:
 Time Complexity
 
