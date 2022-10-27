@@ -82,7 +82,7 @@ Best Case :	    O(n) <br>
 Average Case :	O(n2) <br>
 Worst Case: 	O(n2) <br>
 
-Space Complexity:
+Space Complexity:<br>
 Auxiliary Space: O(1)
 
 ## References :
