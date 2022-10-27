@@ -36,7 +36,7 @@ The algorithm needs one whole pass without any swap to know it is sorted.
 
 ## Bubble sort code in java
 
-````
+```
 import java.util.*;
   import java.util.Scanner;
      public class Bubblesort{
