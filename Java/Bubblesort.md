@@ -13,7 +13,7 @@ Bubble sort works on the repeatedly swapping of adjacent elements until they are
 let's consider array a[] = {4,2,6,1}
 
 <br>
-**First Iteration** 
+**First Iteration**:
 it will compare the very first Two elements comparing them to check Which one is greater
 {4 2 6 1} --> {2 4 6 1} here 4 > 2 so it swaps the elements
 {2 4 6 1} --> {2 4 6 1} since 6 > 4 its already in order algorithm does not swap them.
@@ -22,9 +22,7 @@ it will compare the very first Two elements comparing them to check Which one is
 
 **Second Iteration** :
 Now, during second iteration it should look like this:
-```` {2 4 1 6 } --> {2 4 1 6} ````
-
-Here it is already in order so no need to swap
+{2 4 1 6 } --> {2 4 1 6} Here it is already in order so no need to swap
 {2 4 1 6 } --> {2 1 4 6} swap since 4 > 1
 {2 1 4 6} --> {2 1 4 6 } 6 > 4 already in order no need to swap.
 {2 1 4 6 } --> {1 2 4 6 } 2 > 1 swap.
