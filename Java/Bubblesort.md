@@ -3,8 +3,7 @@ A Sorting Algorithm is used to rearrange a given array or list of elements accor
 The comparison operator is used to decide the new order of elements in the respective data structure.
 
 ## Bubble sorting :
-Bubble sort is the simplest sorting Algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. 
-This sorting Algorithm is bot not suitable for Large data sets.Bubble sort works on the repeatedly swapping of adjacent elements until they are not in the intended order. 
+Bubble sort is the simplest sorting Algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This sorting Algorithm is bot not suitable for Large data sets.Bubble sort works on the repeatedly swapping of adjacent elements until they are not in the intended order. 
 
 ## Working of Bubble sort :
 let's consider array a[] = {4,2,6,1}
@@ -77,7 +76,7 @@ public class Bubblesort{
 ## Time & Space Complexity for Bubble sort:
 **Time Complexity**:
 
-Best Case :	O(n) <br>
+Best Case :	    O(n) <br>
 Average Case :	O(n2) <br>
 Worst Case: 	O(n2) <br>
 
